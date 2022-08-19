@@ -1,0 +1,30 @@
+2022-08-02 12:58:46.798  INFO 10732 --- [main] c.m.sendemail.SendemailApplication       : Starting SendemailApplication using Java 11.0.13 on pms-315023 with PID 10732 (C:\Users\mescobar\Documents\desenvolvimento\workspace3\sendemail\target\classes started by MEscobar in C:\Users\mescobar\Documents\desenvolvimento\workspace3\sendemail)
+2022-08-02 12:58:46.823  INFO 10732 --- [main] c.m.sendemail.SendemailApplication       : No active profile set, falling back to 1 default profile: "default"
+2022-08-02 12:58:50.533  INFO 10732 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-08-02 12:58:50.533  INFO 10732 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-08-02 12:58:51.001  INFO 10732 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-08-02 12:58:51.327  INFO 10732 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-08-02 12:58:52.662  INFO 10732 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-08-02 12:58:58.713  INFO 10732 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-08-02 12:58:58.946  INFO 10732 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.6.10.Final
+2022-08-02 12:58:59.370  INFO 10732 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-08-02 12:58:59.781  INFO 10732 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2022-08-02 12:59:01.976  INFO 10732 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-08-02 12:59:05.318  INFO 10732 --- [main] c.m.sendemail.SendemailApplication       : Started SendemailApplication in 20.092 seconds (JVM running for 23.688)
+2022-08-02 13:00:47.354  INFO 10732 --- [http-nio-8081-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-08-02 13:01:32.754  INFO 10732 --- [RMI TCP Connection(13)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2022-08-02 13:01:32.801  INFO 10732 --- [RMI TCP Connection(13)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2022-08-02 13:01:37.501  INFO 13268 --- [main] c.m.sendemail.SendemailApplication       : Starting SendemailApplication using Java 11.0.13 on pms-315023 with PID 13268 (C:\Users\mescobar\Documents\desenvolvimento\workspace3\sendemail\target\classes started by MEscobar in C:\Users\mescobar\Documents\desenvolvimento\workspace3\sendemail)
+2022-08-02 13:01:37.507  INFO 13268 --- [main] c.m.sendemail.SendemailApplication       : No active profile set, falling back to 1 default profile: "default"
+2022-08-02 13:01:39.014  INFO 13268 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-08-02 13:01:39.014  INFO 13268 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-08-02 13:01:39.161  INFO 13268 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-08-02 13:01:39.285  INFO 13268 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-08-02 13:01:39.659  INFO 13268 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-08-02 13:01:40.017  INFO 13268 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-08-02 13:01:40.133  INFO 13268 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.6.10.Final
+2022-08-02 13:01:40.359  INFO 13268 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-08-02 13:01:40.517  INFO 13268 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2022-08-02 13:01:41.276  INFO 13268 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-08-02 13:01:42.399  INFO 13268 --- [main] c.m.sendemail.SendemailApplication       : Started SendemailApplication in 5.375 seconds (JVM running for 7.116)
+2022-08-02 13:01:50.657  INFO 13268 --- [http-nio-8081-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
